@@ -1,5 +1,4 @@
-### Ari's Absoutely Amazing, The Best, Simply Glorious, .SH Utilities
-*Simple but actually pretty neat .sh scripts*
+### *Simple but actually pretty neat .sh scripts*
 
 
 ##### [rancat.sh](https://github.com/AAATBSGSHU/rancat.sh)
