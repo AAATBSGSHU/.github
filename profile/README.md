@@ -2,6 +2,7 @@
 
 <details open>
 <summary>EZ Utilities</summary>
+
 ##### Makes doing repetetive terminal tasks ez
 
 ##### [ezsh](https://github.com/AAATBSGSHU/ezsh)
@@ -14,6 +15,7 @@ Simple script to make starting work on (& using) new python programs easier
 
 <details open>
 <summary>LZ Utilities</summary>
+
 ##### Do stuff smarter, not harder
 
 ##### [lzps.sh | Lazypush.sh](https://github.com/AAATBSGSHU/lzps.sh)
@@ -23,6 +25,7 @@ It's howtogit.sh but instead of being for people with poor memory it's for peopl
 
 <details open>
 <summary>Helpful scripts</summary>
+
 ##### "Simply useful"
 
 ##### [howtogit.sh](https://github.com/AAATBSGSHU/howtogit.sh)
@@ -33,6 +36,7 @@ Ever forget how to git push? Well this won't help you with remembering, but it w
 
 <details open>
 <summary>Fun scripts</summary>
+
 ##### Something for r/unixporn
 
 ##### [rancat.sh](https://github.com/AAATBSGSHU/rancat.sh)
