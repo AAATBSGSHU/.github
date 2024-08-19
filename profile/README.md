@@ -20,14 +20,14 @@ Simple script to make starting work on (& using) new python programs easier
 -- -
 ##### [lzps.sh | Lazypush.sh](https://github.com/AAATBSGSHU/lzps.sh)
 It's howtogit.sh but instead of being for people with poor memory it's for people with big bellies.
-
+-- -
 </details open>
 
 <details open>
 <summary>Helpful scripts</summary>
 
 ###### *"Simply useful"*
-
+-- -
 ##### [howtogit.sh](https://github.com/AAATBSGSHU/howtogit.sh)
 Ever forget how to git push? Well this won't help you with remembering, but it will help you push that quick fix to hide your mistakes.
 -- -
