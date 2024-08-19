@@ -1,6 +1,6 @@
 ### *Simple but actually pretty neat .sh scripts*
 
-### ez utility suite 
+#### ez utility suite 
 ##### [ezsh](https://github.com/AAATBSGSHU/ezsh)
 The easiest way to initialize a new .sh script, when running it and a location of a new .sh script after it, it will automatically make the latter script executable and add it to your .zshrc / .bashrc
 
