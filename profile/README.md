@@ -1,4 +1,5 @@
 ### *Simple but actually pretty neat .sh scripts*
+-- -
 
 <details open>
 <summary>EZ Utilities</summary>
