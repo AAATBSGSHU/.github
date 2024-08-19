@@ -1,7 +1,11 @@
 ### *Simple but actually pretty neat .sh scripts*
 
+### ez utility suite 
 ##### [ezsh](https://github.com/AAATBSGSHU/ezsh)
 The easiest way to initialize a new .sh script, when running it and a location of a new .sh script after it, it will automatically make the latter script executable and add it to your .zshrc / .bashrc
+
+##### [ezpy](https://github.com/AAATBSGSHU/ezpy)
+Terminal utility for creating, entering and "initializing" (downloading requirements) python environements
 
 ##### [rancat.sh](https://github.com/AAATBSGSHU/rancat.sh)
 Have random ascii art or .txt files you want to display at random? Then read the name and click the link :3
