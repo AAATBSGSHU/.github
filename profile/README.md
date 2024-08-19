@@ -49,3 +49,11 @@ A doomsday clock in your own terminal! Set a date and watch as you slowly have l
 "Time is just an illusion, there is only the now." – Master Sifu
 -- -
 </details open>
+
+
+<details open>
+<summary>TUIs</summary>
+###### *Sometimes the CLI alone just isn't enough*
+
+</details open>
+
