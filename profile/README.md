@@ -36,9 +36,9 @@ Ever forget how to git push? Well this won't help you with remembering, but it w
 
 <details open>
 <summary>Fun scripts</summary>
--- -
-###### *Something for r/unixporn*
 
+###### *Something for r/unixporn*
+-- -
 ##### [rancat.sh](https://github.com/AAATBSGSHU/rancat.sh)
 Have random ascii art or .txt files you want to display at random? Then read the name and click the link :3
 
