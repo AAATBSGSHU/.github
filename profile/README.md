@@ -53,6 +53,7 @@ A doomsday clock in your own terminal! Set a date and watch as you slowly have l
 
 <details open>
 <summary>TUIs</summary>
+
 ###### *Sometimes the CLI alone just isn't enough*
 
 </details open>
