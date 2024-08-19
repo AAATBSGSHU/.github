@@ -26,6 +26,9 @@ It's howtogit.sh but instead of being for people with poor memory it's for peopl
 <summary>Helpful scripts</summary>
 
 ###### *"Simply useful"*
+##### [volumectl.sh](https://github.com/AAATBSGSHU/volumectl.sh)
+Control your volume from the terminal with a clean and minimal TUI-like interface.
+
 ##### [howtogit.sh](https://github.com/AAATBSGSHU/howtogit.sh)
 Ever forget how to git push? Well this won't help you with remembering, but it will help you push that quick fix to hide your mistakes.
 -- -
