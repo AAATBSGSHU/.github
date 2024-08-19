@@ -44,5 +44,8 @@ Have random ascii art or .txt files you want to display at random? Then read the
 
 ##### [ddclock.sh](https://github.com/AAATBSGSHU/ddclock.sh)
 A doomsday clock in your own terminal! Set a date and watch as you slowly have less and less time...
+
+##### [wisdom.sh](https://github.com/AAATBSGSHU/wisdom.sh)
+"Time is just an illusion, there is only the now." – Master Sifu
 -- -
 </details open>
