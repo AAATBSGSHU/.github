@@ -8,7 +8,8 @@
 ##### [Shofi](https://github.com/arxari/shofi)
 Wofi but in Shell inside your terminal
 
--- -
+##### [Bashbar](https://github.com/arxari/shofi)
+Waybar but it's written in shell and runs in your terminal
 </details open>
 
 
