@@ -2,6 +2,7 @@
 -- -
 <details open>
 <summary>Converted GUIs</summary>
+
 ###### *GUI apps remade as Shell programs*
 
 ##### [Shofi](https://github.com/arxari/shofi)
