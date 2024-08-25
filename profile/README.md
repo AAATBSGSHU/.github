@@ -1,5 +1,15 @@
 ### *Simple but actually pretty neat .sh scripts*
 -- -
+<details open>
+<summary>Converted GUIs</summary>
+###### *GUI apps remade as Shell programs*
+
+##### [Shofi](https://github.com/arxari/shofi)
+Wofi but in Shell inside your terminal
+
+-- -
+</details open>
+
 
 <details open>
 <summary>EZ Utilities</summary>
