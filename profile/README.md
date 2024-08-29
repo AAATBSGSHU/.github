@@ -6,7 +6,7 @@
 ###### *GUI apps remade as Shell programs*
 
 ##### [Shofi](https://github.com/arxari/shofi)
-Wofi but in Shell inside your terminal
+Launch apps with a CLI interface
 
 ##### [Bashbar](https://github.com/arxari/bashbar)
 Waybar but it's written in shell and runs in your terminal
