@@ -38,6 +38,8 @@ It's howtogit.sh but instead of being for people with poor memory it's for peopl
 <summary>Helpful scripts</summary>
 
 ###### *"Simply useful"*
+##### [desktopfinder.sh](https://github.com/AAATBSGSHU/desktopfinder.sh)
+Automatically & easily find and edit .desktop files with your text editor of choice.
 ##### [volumectl.sh](https://github.com/AAATBSGSHU/volumectl.sh)
 Control your volume from the terminal with a clean and minimal TUI-like interface.
 
