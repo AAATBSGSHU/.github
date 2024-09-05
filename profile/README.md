@@ -56,6 +56,9 @@ Ever forget how to git push? Well this won't help you with remembering, but it w
 ##### [rancat.sh](https://github.com/AAATBSGSHU/rancat.sh)
 Have random ascii art or .txt files you want to display at random? Then read the name and click the link :3
 
+##### [determination.sh](https://github.com/AAATBSGSHU/determination.sh)
+* (Reading this text and wondering what this script could be, the curiosity fills you with determination.)
+
 ##### [ddclock.sh](https://github.com/AAATBSGSHU/ddclock.sh)
 A doomsday clock in your own terminal! Set a date and watch as you slowly have less and less time...
 
