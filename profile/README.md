@@ -31,6 +31,10 @@ Simple script to make starting work on (& using) new python programs easier
 ###### *Do stuff smarter, not harder*
 ##### [lzps.sh | Lazypush.sh](https://github.com/AAATBSGSHU/lzps.sh)
 It's howtogit.sh but instead of being for people with poor memory it's for people who make wayyyy too many commits than they should and are tired of going trough their zhs history to paste the same three things over and over again instead of actually testing stuff before pushing it so they don't have to push and push.
+
+##### [lzfi.sh | Lazy(wi-)fi.sh](https://github.com/AAATBSGSHU/lzfi.sh)
+Connect to networks from your terminal using a prompt-based interface
+
 -- -
 </details open>
 
