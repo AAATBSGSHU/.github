@@ -22,6 +22,12 @@ The easiest way to initialize a new .sh script, when running it and a location o
 
 ##### [ezpy](https://github.com/AAATBSGSHU/ezpy)
 Simple script to make starting work on (& using) new python programs easier
+
+##### [ezclone](https://github.com/AAATBSGSHU/ezclone)
+Git clone repos with more easy than ever
+
+##### [ezcd](https://github.com/AAATBSGSHU/ezcd)
+Find and cd into a folder wthout hassle, just run ```ezcd foldername``` and you're good to go
 -- -
 </details open>
 
@@ -44,6 +50,7 @@ Connect to networks from your terminal using a prompt-based interface
 ###### *"Simply useful"*
 ##### [desktopfinder.sh](https://github.com/AAATBSGSHU/desktopfinder.sh)
 Automatically & easily find and edit .desktop files with your text editor of choice.
+
 ##### [volumectl.sh](https://github.com/AAATBSGSHU/volumectl.sh)
 Control your volume from the terminal with a clean and minimal TUI-like interface.
 
