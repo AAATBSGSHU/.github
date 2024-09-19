@@ -51,6 +51,9 @@ Connect to networks from your terminal using a prompt-based interface
 ##### [desktopfinder.sh](https://github.com/AAATBSGSHU/desktopfinder.sh)
 Automatically & easily find and edit .desktop files with your text editor of choice.
 
+##### [calc.sh](https://github.com/AAATBSGSHU/calc.sh)
+An easily accessible, usable and fast terminal calculator
+
 ##### [volumectl.sh](https://github.com/AAATBSGSHU/volumectl.sh)
 Control your volume from the terminal with a clean and minimal TUI-like interface.
 
