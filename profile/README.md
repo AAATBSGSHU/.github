@@ -52,7 +52,10 @@ Connect to networks from your terminal using a prompt-based interface
 Automatically & easily find and edit .desktop files with your text editor of choice.
 
 ##### [calc.sh](https://github.com/AAATBSGSHU/calc.sh)
-An easily accessible, usable and fast terminal calculator
+An easily accessible, usable and fast terminal calculator.
+
+##### [backuptar](https://github.com/AAATBSGSHU/backuptar.sh)
+Backup a location, folder or a file easily in a tar archive.
 
 ##### [volumectl.sh](https://github.com/AAATBSGSHU/volumectl.sh)
 Control your volume from the terminal with a clean and minimal TUI-like interface.
