@@ -54,7 +54,7 @@ Automatically & easily find and edit .desktop files with your text editor of cho
 ##### [calc.sh](https://github.com/AAATBSGSHU/calc.sh)
 An easily accessible, usable and fast terminal calculator.
 
-##### [backuptar](https://github.com/AAATBSGSHU/backuptar.sh)
+##### [backuptar](https://github.com/AAATBSGSHU/backuptar)
 Backup a location, folder or a file easily in a tar archive.
 
 ##### [volumectl.sh](https://github.com/AAATBSGSHU/volumectl.sh)
