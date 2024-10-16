@@ -12,6 +12,15 @@ Launch apps with a CLI interface
 Waybar but it's written in shell and runs in your terminal
 </details open>
 
+<details open>
+<summary>Better CLI</summary>
+
+###### *Making existing CLI interfaces better and easier*
+
+##### [lzqemu](https://github.com/AAATBSGSHU/lzqemu)
+A an easy to use CLI promp-based QEMU manager
+-- -
+</details open>
 
 <details open>
 <summary>EZ Utilities</summary>
@@ -36,9 +45,6 @@ Find and cd into a folder wthout hassle, just run ```ezcd foldername``` and you'
 <summary>LZ Utilities</summary>
 
 ###### *Do stuff smarter, not harder*
-
-##### [lzqemu](https://github.com/AAATBSGSHU/lzqemu)
-A an easy to use CLI promp-based QEMU manager
 
 ##### [lzps.sh | Lazypush.sh](https://github.com/AAATBSGSHU/lzps.sh)
 It's howtogit.sh but instead of being for people with poor memory it's for people who make wayyyy too many commits than they should and are tired of going trough their zhs history to paste the same three things over and over again instead of actually testing stuff before pushing it so they don't have to push and push.
