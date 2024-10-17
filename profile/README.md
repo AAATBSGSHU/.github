@@ -8,7 +8,7 @@
 ##### [Shofi](https://github.com/arxari/shofi)
 Launch apps with a CLI interface
 
-##### [Bashbar](https://github.com/arxari/bashbar)
+##### [Bashbar - (Very barebones)](https://github.com/arxari/bashbar)
 Waybar but it's written in shell and runs in your terminal
 </details open>
 
