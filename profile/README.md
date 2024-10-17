@@ -13,11 +13,11 @@ Waybar but it's written in shell and runs in your terminal
 </details open>
 
 <details open>
-<summary>Better CLI</summary>
+<summary>Bttr CLI</summary>
 
 ###### *Making existing CLI interfaces better and easier*
 
-##### [lzqemu](https://github.com/AAATBSGSHU/lzqemu)
+##### [bttr-qemu](https://github.com/AAATBSGSHU/bttrqemu)
 A an easy to use CLI promp-based QEMU manager
 -- -
 </details open>
